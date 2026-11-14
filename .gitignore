@@ -1,0 +1,15 @@
+# secrets
+.env
+.env.*
+*.pem
+sa-key.json
+.terraform/
+terraform.tfstate*
+terraform.tfvars
+# python
+__pycache__/
+*.pyc
+.venv/
+# misc
+.DS_Store
+*.log
