@@ -13,3 +13,7 @@ __pycache__/
 # misc
 .DS_Store
 *.log
+
+
+# private notes
+/notes/week-0-private.md
